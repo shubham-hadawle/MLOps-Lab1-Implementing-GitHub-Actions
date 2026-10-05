@@ -62,4 +62,3 @@ def fun4(x,y,z):
 # f2_op = fun2(2,3)
 # f3_op = fun3(2,3)
 # f4_op = fun4(f1_op,f2_op,f3_op)
-
